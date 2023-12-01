@@ -2,7 +2,7 @@
 
 Meu nome é Pedro 
 - Aprendendo pouco a pouco
-- Me desenvolvendo em JS e phyton
+- Me desenvolvendo em JS, phyton e PHP
 - Mostrando minha evolução
 
 
